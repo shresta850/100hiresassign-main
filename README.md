@@ -1,4 +1,4 @@
-# 100Hires Assignment
+# 100Hires 
 
 ## Tools Installed
 - Cursor IDE - AI-powered code editor workspace.
