@@ -23,6 +23,10 @@ Reason Selected: Grew ShipFast to ~$54K/month. His 138K-subscriber channel shows
 direct revenue spikes tied to specific viral videos — he's named one video his
 single biggest lead source.
 
+Research Sources :
+- https://youtu.be/UTjU_30SHIo?si=QIgN-XBiW109KCGM
+- https://youtu.be/JKFmLdoLm8M?si=nDx1qHcxsrI7gbMJ
+
 ## 4. Jonathan Rintala (Founder, Univid)
 Platforms: YouTube, LinkedIn
 Reason Selected: His channel's entire premise is documenting how he's growing his
