@@ -4,6 +4,10 @@ Reason Selected: Bootstrapped Arvo to ~$70K/month largely through YouTube. Runs 
 documented 3-bucket content system (evergreen / news / viral) and layered in paid
 promotion only after organic traction proved out.
 
+Research Sources:
+- https://youtu.be/FS2I6EcrHf8
+- https://youtu.be/DVq0nyrBjjQ
+
 ## 2. Simon Høiberg (Founder, FeedHive, LinkDrip, Aidbase)
 Platforms: YouTube, LinkedIn
 Reason Selected: Founder of three B2B SaaS products. Pre-sold LinkDrip to $75K in
