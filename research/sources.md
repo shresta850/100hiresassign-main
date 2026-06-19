@@ -13,6 +13,10 @@ Platforms: YouTube, LinkedIn
 Reason Selected: Founder of three B2B SaaS products. Pre-sold LinkDrip to $75K in
 revenue before launch, driven by his YouTube audience.
 
+Research Sources :
+- https://youtu.be/fnOQMT2EYbg?si=iMItAVlp9w5-OSrm
+- https://youtu.be/RP1k5QN1TYw?si=-ghOrpg0FzZQfMk0
+
 ## 3. Marc Lou (Founder, ShipFast)
 Platforms: YouTube, X (Twitter)
 Reason Selected: Grew ShipFast to ~$54K/month. His 138K-subscriber channel shows
