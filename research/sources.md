@@ -33,6 +33,9 @@ Reason Selected: His channel's entire premise is documenting how he's growing hi
 own B2B SaaS (Univid) toward $5M ARR using video — the closest 1:1 match to this
 exact assignment topic.
 
+Research Sources : 
+- https://youtu.be/Y7j995RddrA?si=DTPO_T02uXMwdH0M
+- https://youtu.be/AKcAn8-s-cM?si=gAvPWgF7wmoqV9gt
 ## 5. Noah Kagan (Founder, AppSumo)
 Platforms: YouTube, LinkedIn
 Reason Selected: Deliberately scaled his channel from ~53K to 1M+ subscribers
