@@ -4,6 +4,7 @@ Profile: https://www.linkedin.com/in/vascoamonteiro/
 ## Post 1
 Date: ~1 week ago
 Title: "$24,446.81 from one page that ranks first in AI search"
+link: https://www.linkedin.com/posts/activity-7470458508593741826-UkBt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC4Kb4BgppZ1dsWqO7LWZi-aNVnSdrjNMA
 
 Summary:
 Vasco argues that SEO remains an effective acquisition channel in 2026. He claims one page ranking first in AI search generated $24,446.81 and emphasizes that search demand still converts into SaaS revenue.
@@ -11,11 +12,12 @@ Vasco argues that SEO remains an effective acquisition channel in 2026. He claim
 Why it matters:
 Demonstrates that content and SEO can directly generate revenue and customers for B2B SaaS products.
 
----
+
 
 ## Post 2
 Date: ~3 weeks ago
 Title: "Nothing happens for a long time, then everything happens all at once"
+link: https://www.linkedin.com/posts/activity-7465748734082023424-DoMF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC4Kb4BgppZ1dsWqO7LWZi-aNVnSdrjNMA
 
 Summary:
 Vasco mentions that his YouTube channel now generates ad revenue and, more importantly, drives hundreds of thousands of dollars in SaaS lead flow.
@@ -23,11 +25,12 @@ Vasco mentions that his YouTube channel now generates ad revenue and, more impor
 Why it matters:
 Direct evidence that YouTube can become a significant lead-generation engine for SaaS businesses.
 
----
+
 
 ## Post 3
 Date: ~3 weeks ago
 Title: "Decided to give short form another go"
+link: https://www.linkedin.com/posts/activity-7463965755060031488-bYKG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC4Kb4BgppZ1dsWqO7LWZi-aNVnSdrjNMA
 
 Summary:
 He explains using TikTok to distribute content and funnel viewers into long-form YouTube videos where nurturing and conversion happen.
@@ -35,11 +38,12 @@ He explains using TikTok to distribute content and funnel viewers into long-form
 Why it matters:
 Shows a multi-platform content funnel for acquiring SaaS users.
 
----
+
 
 ## Post 4
 Date: ~2 weeks ago
 Title: "From 0 to 38,000 clicks in 24 hours"
+link: https://www.linkedin.com/posts/activity-7466593184677175297-PZ_n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC4Kb4BgppZ1dsWqO7LWZi-aNVnSdrjNMA
 
 Summary:
 Describes an AI-assisted content workflow that generated significant traffic by rapidly publishing niche news content.
@@ -47,11 +51,12 @@ Describes an AI-assisted content workflow that generated significant traffic by 
 Why it matters:
 Illustrates how trend-based content creation can rapidly attract attention and potential SaaS customers.
 
----
+
 
 ## Post 5
 Date: ~10 months ago
 Title: "$5,258/day, 99% profit. Our CAC is negative."
+link: https://www.linkedin.com/posts/vascoamonteiro_525812day-99-profit-how-all-our-share-7358901972260782081-sHNt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC4Kb4BgppZ1dsWqO7LWZi-aNVnSdrjNMA
 
 Summary:
 Vasco states that all user acquisition is organic and that his company effectively gets paid to acquire customers.
