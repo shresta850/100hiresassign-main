@@ -45,6 +45,10 @@ thought leadership videos. Channel directly drives MicroConf memberships
 and TinySeed deal flow, making it a proven B2B pipeline. Widely regarded 
 as the godfather of bootstrapped SaaS.
 
+Research Sources : 
+- https://youtu.be/xJX9uu2HUZ0?si=vBi-bzLOVVcUzCyf
+- https://youtu.be/Hy4eBvxvVfk?si=f1Onf3x7I20aOnPq
+
 ## 6. Jose "Caya" Cayasso (CEO, Slidebean)
 Platforms: YouTube, LinkedIn
 Reason Selected: Personally became the on-camera host and pivoted Slidebean's
