@@ -36,11 +36,14 @@ exact assignment topic.
 Research Sources : 
 - https://youtu.be/Y7j995RddrA?si=DTPO_T02uXMwdH0M
 - https://youtu.be/AKcAn8-s-cM?si=gAvPWgF7wmoqV9gt
-## 5. Noah Kagan (Founder, AppSumo)
-Platforms: YouTube, LinkedIn
-Reason Selected: Deliberately scaled his channel from ~53K to 1M+ subscribers
-(hiring a YouTube consultant to do it) specifically to build audience for AppSumo —
-treated as a resourced growth project, not a hobby.
+
+## 5. Rob Walling (Founder, MicroConf / Drip / TinySeed)
+Platforms: YouTube (@RobWalling), LinkedIn
+Reason Selected: Built and sold Drip (email marketing SaaS) for 8 figures.
+Grew his YouTube channel to 111K subscribers publishing original weekly
+thought leadership videos. Channel directly drives MicroConf memberships 
+and TinySeed deal flow, making it a proven B2B pipeline. Widely regarded 
+as the godfather of bootstrapped SaaS.
 
 ## 6. Jose "Caya" Cayasso (CEO, Slidebean)
 Platforms: YouTube, LinkedIn
