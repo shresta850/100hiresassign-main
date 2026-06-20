@@ -1,32 +1,33 @@
-# Video Title: How Dan Martell Gained 1M Followers in 12 Months (Genius Strategy)
+# Video Title: How to Create YouTube Videos for SaaS in 2026
 
-Link: https://youtu.be/fuLxzFE72tw?si=uCY5HUrwH7abhE41
-Date: August 28, 2024
-Channel: Dan Martell
+Link: https://youtu.be/D7WIJrPkRBM?si=PFTiumi2JE554DTh
+Date: April 27, 2026
+Channel: Samu Kovács (KS Media)
 
 ## Key Ideas
 
-- Dan reorganized his entire life and calendar 11 months prior to this video
-  to become a media person — treating YouTube as the primary business asset,
-  not a side activity. His turning point: realizing everything he wanted in
-  life was on the other side of reach and reputation.
-- He went from spending $3-4K/month on content to unlimited budget with a
-  team of 15 — the math only worked because the ROI of YouTube compounded
-  across all his businesses (SaaS Academy, Martell Ventures, book sales).
-- Content flywheel: long-form YouTube → short-form clips for all platforms →
-  Twitter to test hooks → Friday Instagram Q&A feeds back into YouTube
-  scripts. Every output is also an input.
-- "Build your collection" — Dan reads 1,800+ books, highlights constantly,
-  rewrites passages in his own words, and stores them in a notes file that
-  feeds all content creation. Unique perspective is the only moat.
-- Key insight for B2B SaaS founders: turning pro is less crowded than being
-  an amateur. Most people won't commit the calendar and budget required —
-  that gap is the opportunity.
+- 95% of SaaS companies treat YouTube as a checkbox exercise — uploading
+  videos with no strategy, no optimization, and no results. The fix is a
+  6-step production process: topic selection, packaging, scripting, recording,
+  production, and distribution.
+- Topic selection must be validated — search YouTube for the topic first. If
+  existing videos are getting views, demand exists. If not, skip it. Also mine
+  sales call questions and support tickets for validated topics.
+- The hook (first 30-60 seconds) must answer three questions: what is the
+  video about, why should people keep watching, and why are you qualified?
+  The authority statement is the most skipped but most important element.
+- Two CTAs per video: one at the 33% mark (short and soft, for already-warm
+  viewers) and one at the end (direct and detailed, for everyone else). This
+  system measurably increases conversions.
+- Distribution is required in the first months — post a native LinkedIn text
+  post linking the video every time a new video goes live. This pushes your
+  existing audience to YouTube and signals to the algorithm who your content
+  is for.
+- Real results: took Adam Robinson from 200 to 20,000 views per video. Helped
+  Coco AI generate $250,000 in pipeline from their first five videos together.
 
 ## Why It Matters
 
-This video is a direct case study of a serial SaaS founder (3 exits, $100M+
-holdco) deliberately engineering YouTube growth as a B2B business asset.
-The entire strategy — pre-validation, content flywheel, going pro — is
-directly transferable to any B2B SaaS company willing to commit to YouTube
-as a primary channel.
+This is the most tactical and process-driven video in the research set — a
+complete step-by-step operating guide for how any B2B SaaS company should
+create YouTube videos that generate pipeline, not just views.

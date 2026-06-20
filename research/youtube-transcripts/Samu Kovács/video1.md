@@ -1,32 +1,31 @@
-# Video Title: The New Way to Get Views on YouTube w/ Dan Martell
+# Video Title: Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes
 
-Link: https://youtu.be/nKHmd6MD_pw?si=lZWQfTmKh7LkubFa
-Date: July 23, 2025
-Channel: Dan Martell
+Link: https://youtu.be/2tgEvv9Irrc?si=HB0YDV5S-Hu5PuKE
+Date: June 15, 2026
+Channel: Samu Kovács (KS Media)
 
 ## Key Ideas
 
-- Pre-validation before creating content is the core strategy — study outlier
-  videos on competitor channels (videos that got 10x normal views) and use
-  those as content direction, filtered by recency (last 6 months only).
-- The 70/20/10 framework: 70% proven formats, 20% derivative experiments,
-  10% moonshot creative projects — this prevents stagnation while managing
-  risk.
-- Dan went from 2,000 views per video for 8 years to 9-20 million monthly
-  views in 2.5 years — the turning point was deciding to go pro and treat
-  YouTube as a media company, not a marketing department.
-- Content stencils (problem → story → teach) are used across every format —
-  YouTube, shorts, Instagram, LinkedIn — creating a repeatable production
-  system at scale.
-- Energy during creation is felt by the viewer — Dan does bicep curls before
-  recording, never records at end of day, and batch shoots in a dedicated
-  studio to protect content quality.
-- AI is used for ideation, B-roll search, and pre-production — but Dan stays
-  on camera himself because founder trust cannot be replicated by an avatar.
+- The "outlier method" for YouTube strategy: use VidIQ or 1of10.com to find
+  videos that got 3x-7x more views than the channel average — these are
+  proven ideas you can adapt to your niche instead of guessing from scratch.
+- Three content buckets for B2B SaaS YouTube: holistic videos (broad company
+  story), business function specific (marketing, sales, onboarding), and tool
+  specific (showing workflows inside actual tools). All buckets anchor to the
+  company's unique differentiators.
+- The "copy the wrapper, never the content" rule — replicate proven title
+  structures and thumbnail formats from winning videos, but make the actual
+  content 100% original and specific to your company's data and processes.
+- Founder-led personal channels outperform company channels on YouTube
+  because trust is built person-to-person, not brand-to-person.
+- This whole YouTube strategy takes less than 60 minutes of a founder's time
+  per week because existing content (podcasts, LinkedIn posts) gets
+  restructured into YouTube-optimized scripts — no new content creation
+  needed.
 
 ## Why It Matters
 
-This is Dan Martell's most detailed breakdown of his YouTube growth system —
-directly applicable to B2B SaaS founders. He proves that consistent
-long-term YouTube investment (8 years of reps + 2.5 years of going pro)
-compounds into a primary business growth channel, not just a vanity metric.
+This is the clearest B2B SaaS YouTube strategy framework available in 2026.
+Samu demonstrates the exact process his agency uses across 40+ active B2B
+YouTube channels — making it directly replicable for any SaaS company
+looking to use YouTube as a pipeline channel.
