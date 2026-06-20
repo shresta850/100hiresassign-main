@@ -87,6 +87,11 @@ Reason Selected: Built and exited multiple SaaS companies; engineered his own
 channel's growth from 100K to 1M+ subscribers in 18 months using a documented,
 repeatable content production system.
 
+Research Sources:
+-https://youtu.be/nKHmd6MD_pw?si=lZWQfTmKh7LkubFa
+-https://youtu.be/fuLxzFE72tw?si=uCY5HUrwH7abhE41
+
+
 ## 10. Samu Kovács (Founder, KS Media)
 Platforms: YouTube, LinkedIn
 Reason Selected: His entire profession is B2B YouTube strategy — helped 40+ B2B
