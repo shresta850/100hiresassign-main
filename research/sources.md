@@ -97,3 +97,7 @@ Platforms: YouTube, LinkedIn
 Reason Selected: His entire profession is B2B YouTube strategy — helped 40+ B2B
 SaaS companies (including RB2B) turn YouTube into a real revenue channel, and runs
 the identical playbook on his own content.
+
+Research Sources:
+- https://youtu.be/2tgEvv9Irrc?si=HB0YDV5S-Hu5PuKE
+- https://youtu.be/D7WIJrPkRBM?si=PFTiumi2JE554DTh
