@@ -77,6 +77,10 @@ Reason Selected: CMO of a ~$100M ARR bootstrapped SaaS. Personally built Ahrefs'
 YouTube channel to 200K+ subscribers and speaks specifically about tactics like
 cross-promotion and prioritizing engagement over vanity analytics.
 
+Research Sources:
+- https://youtu.be/lgUrHqaPrhU?si=exZOyYrdvx8ZndzI
+- https://youtu.be/Nw-HgjJClpM?si=BhpyTykTvZmizt8s
+
 ## 9. Dan Martell (Founder, SaaS Academy)
 Platforms: YouTube, LinkedIn
 Reason Selected: Built and exited multiple SaaS companies; engineered his own
