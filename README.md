@@ -1,48 +1,45 @@
-# 100Hires 
+# Research Project: YouTube Content Strategy for B2B SaaS
 
-## Tools Installed
-- Cursor IDE - AI-powered code editor workspace.
-- Claude Code for VS Code (by Anthropic) - AI coding extension.
-- Codex - OpenAI's coding agent extension.
-- Node.js v24.16.0 - Required local runtime environment for terminal-based AI dependencies.
-- GitHub - Version control and repository hosting platform.
+## Goal
 
-## Steps Completed
-1. Created a Cursor account and installed Cursor IDE from cursor.com
-2. Created a GitHub account at github.com
-3. Connected GitHub account to Cursor during initial setup
-4. Attempted to install Claude Code extension - discovered Extensions 
-   panel was not loading properly
-5. Researched the issue and found that Claude Code extension requires 
-   Node.js v18 or higher to function
-6. Downloaded and installed Node.js v24.16.0 from nodejs.org
-7. Restarted Cursor - full Extensions panel became available
-8. Installed Claude Code for VS Code extension by Anthropic
-9. Installed Codex - OpenAI's coding agent extension
-10. Created a public GitHub repository named 100hiresassign
-11. Opened the repository in Cursor
-12. Created and documented this README.md file
+Research how successful B2B SaaS founders and operators use YouTube to acquire customers, build authority, generate pipeline, and create repeatable growth systems.
 
-## Issues Encountered & Solutions
+## Why These Experts
 
-### Issue 1: Mismatched IDE Interface & Missing Extensions Panel
-Upon launching Cursor, the standard VS Code Extensions panel (`Ctrl+Shift+X`) was entirely missing or replaced with a basic "Customize" layout. The interface did not match tutorials, and searching for "Claude Code" or "Codex" yielded no results.
+I selected practitioners who have actually used YouTube to grow real SaaS businesses. Every expert has publicly documented using YouTube as a meaningful acquisition, authority-building, or revenue-driving channel for their businesses. The focus was on high-signal operators who share practical insights, frameworks, and measurable outcomes rather than purely theoretical advice.
 
-*Solution: Attempted several UI fixes (logging out/in, testing alternate accounts, exploring all settings panels). Realized the IDE's extension architecture wasn't fully loading due to a missing backend environment dependency. 
+## The 10 Experts
 
-### Issue 2: Terminal Command Error ("npm not recognized")
-Attempted to bypass the broken UI by installing the tool directly via the Cursor terminal using the command: `npm install -g @anthropic-ai/claude-code`. This returned a critical command-line error stating that `npm` was not recognized as a cmdlet or executable program.
+| Expert           | Company       | Why Selected                                                                                                                                    |
+| ---------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vasco Aires      | Arvo          | Grew Arvo to approximately $70K/month primarily through YouTube-led customer acquisition.                                                       |
+| Simon Høiberg    | FeedHive      | Built an audience that enabled him to pre-sell products and document SaaS growth publicly through YouTube.                                      |
+| Marc Lou         | ShipFast      | Built a large audience and repeatedly demonstrated revenue spikes tied to YouTube content.                                                      |
+| Jonathan Rintala | Univid        | Publicly documents scaling a B2B SaaS business and shares YouTube-driven growth insights.                                                       |
+| Rob Walling      | MicroConf     | Built a significant audience that supports MicroConf, TinySeed, and his broader SaaS ecosystem.                                                 |
+| Jose Cayasso     | Slidebean     | Pivoted customer acquisition toward YouTube and built a channel with hundreds of thousands of subscribers and millions in attributable revenue. |
+| Pat Walls        | Starter Story | Grew Starter Story largely through YouTube, making the audience valuable enough to attract acquisition interest from HubSpot.                   |
+| Dan Martell      | SaaS Academy  | Built a highly documented content production system and scaled to millions of monthly views.                                                    |
+| Tim Soulo        | Ahrefs        | Helped build Ahrefs' content engine and YouTube presence while scaling a bootstrapped SaaS business to significant ARR.                         |
+| Samu Kovács      | KS Media      | Operates numerous B2B YouTube channels and openly shares repeatable frameworks for SaaS content growth.                                         |
 
-*Solution: Used Claude AI to translate the error block. The AI confirmed that `npm` is bundled with Node.js, proving that a local JavaScript runtime environment was completely missing from the PC.
+## Repository Structure
 
-### Issue 3: Activating the Correct Environment
-Downloaded the latest LTS version of Node.js (v24.16.0) from [nodejs.org](https://nodejs.org/). Initially, the UI didn't update immediately.
+* `research/sources.md` — List of all experts with links, dates, and annotations.
+* `research/youtube-transcripts/` — Video transcripts organized by expert.
+* `research/linkedin-posts/` — Recent LinkedIn posts organized by expert.
+* `research/other/` — Additional resources, frameworks, and supporting materials.
 
-*Solution: Closed the IDE and restarted the computer to allow the new system path variables to take effect. Upon re-opening Cursor, the full extensions marketplace loaded perfectly, confirming that Claude Code's background agent loop requires a local Node.js environment to run.
+## Data Collected
 
-## Key Learnings
-- Claude Code extension requires Node.js v18+ to function in Cursor
-- Cursor has two separate add-on systems: Cursor Marketplace and VS Code Extensions - they serve different purposes
-- npm comes bundled with Node.js and is not a standalone installation
-- GitHub repositories can be opened directly inside Cursor as a workspace
-- Documenting errors and their solutions is as valuable as the solution itself
+* YouTube video transcripts discussing SaaS growth, customer acquisition, and content strategy.
+* Recent LinkedIn posts from each expert.
+* Additional notes and supporting materials where available.
+
+## Data Collection Method
+
+YouTube transcripts were collected manually from relevant videos and public transcript sources. LinkedIn posts were collected manually from each expert's profile. Sources primarily consist of recent content (2024–2026), supplemented with older foundational materials where they directly document YouTube growth strategies, customer acquisition methods, and measurable business outcomes.
+
+## Intended Outcome
+
+The purpose of this repository is to build a high-quality research base that can later be used to develop a practical playbook for how B2B SaaS companies can leverage YouTube as a sustainable growth and customer acquisition channel.
