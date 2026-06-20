@@ -55,6 +55,10 @@ Reason Selected: Personally became the on-camera host and pivoted Slidebean's
 whole acquisition strategy from SEO to YouTube once SEO hit a ceiling — now a
 400K+ subscriber channel.
 
+Research Sources:
+- https://youtu.be/E9twlH_fX3o?si=5-_K_GEBkttBk7rf
+- https://youtu.be/_3_aAxneu2w?si=Ek3fGM9HbSDsPCPi
+
 ## 7. Julia Enthoven (Co-founder & CEO, Kapwing)
 Platforms: YouTube, LinkedIn
 Reason Selected: Has spoken publicly about roughly a fifth of Kapwing's users
