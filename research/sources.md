@@ -67,6 +67,10 @@ Starter Story specifically for its YouTube audience. Has publicly stated one
 view equals $0.10 in revenue — proving YouTube as a direct, measurable
 revenue channel, not just brand awareness.
 
+Research Sources:
+- https://youtu.be/l4WEqPX52Cg?si=uptP7iL5ToLnaUTK
+- https://youtu.be/xeUhKuJbeWQ?si=jCQ9OYM6ubHLSFMi
+
 ## 8. Tim Soulo (CMO, Ahrefs)
 Platforms: YouTube, LinkedIn
 Reason Selected: CMO of a ~$100M ARR bootstrapped SaaS. Personally built Ahrefs'
