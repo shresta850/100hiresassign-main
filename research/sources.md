@@ -59,10 +59,13 @@ Research Sources:
 - https://youtu.be/E9twlH_fX3o?si=5-_K_GEBkttBk7rf
 - https://youtu.be/_3_aAxneu2w?si=Ek3fGM9HbSDsPCPi
 
-## 7. Julia Enthoven (Co-founder & CEO, Kapwing)
+## 7. Pat Walls (Founder, Starter Story)
 Platforms: YouTube, LinkedIn
-Reason Selected: Has spoken publicly about roughly a fifth of Kapwing's users
-discovering the product through YouTube first.
+Reason Selected: Built Starter Story to $1.1M/year and grew YouTube to 800K+
+subscribers. YouTube was so central to his business that HubSpot acquired
+Starter Story specifically for its YouTube audience. Has publicly stated one
+view equals $0.10 in revenue — proving YouTube as a direct, measurable
+revenue channel, not just brand awareness.
 
 ## 8. Tim Soulo (CMO, Ahrefs)
 Platforms: YouTube, LinkedIn
